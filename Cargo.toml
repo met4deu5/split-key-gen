@@ -1,0 +1,12 @@
+[package]
+name = "split-key-gen"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sharks = "0.5.0"
+shkeleton = { version = "0.11.3", features = ["cli"] }
+rand = "0.8.4"
+base64 = "0.13.0"
