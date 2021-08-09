@@ -9,4 +9,5 @@ edition = "2018"
 sharks = "0.5.0"
 shkeleton = { version = "0.11.3", features = ["cli"] }
 rand = "0.8.4"
+z85 = "3.0.3"
 base64 = "0.13.0"
